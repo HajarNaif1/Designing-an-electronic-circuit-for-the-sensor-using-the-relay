@@ -1,4 +1,4 @@
-# Designing an electronic circuit for the sensor using the relay
+# Electronic circuit design that can be turned on and off automatically
 ## :black_circle: *Concept the relay* :bulb::arrow_down::
 ##### :heavy_minus_sign: The relay is the device that open or closes the contacts to cause the operation of the other electric control. It detects the intolerable or undesirable condition with an assigned area and gives the commands to the circuit breaker to disconnect the affected area. Thus protects the system from damage
 
