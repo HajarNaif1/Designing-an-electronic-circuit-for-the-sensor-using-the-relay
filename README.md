@@ -13,6 +13,8 @@
 
 ## :black_circle: *electronic circuit* :point_down::
 ![Grand Blad-Amur](https://user-images.githubusercontent.com/107880209/182004458-75886786-4f0c-466f-8a42-0e8957ef58ac.png)
+### *How the circuit works*:question::grey_question:
+##### When we press push button , It will turn the LED ON and when we press push button again it will turn the LED OFF
 
 ## :black_circle: *code* :receipt::computer::
 ```
